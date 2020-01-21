@@ -20,6 +20,9 @@
    - [RUBY](#ruby)
    - [SWIFT](#swift)
    - [GO](#go)
+ - [REPOSTAS](#respostas)
+   - (200)[200---ok]
+   - (404)[404---not-found]
    
 
 
@@ -38,14 +41,14 @@ PARAMS:
 > Os exemplos abaixo utilizam o usuário **teste**. Para solicitar um novo usuário e token envie e-mail para [api@linketrack.com](mailto://api@linketrack.com)
 
 
-### EXEMPLOS
+## EXEMPLOS
 
-#### HTTP GET
+### HTTP GET
 ```
 GET https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb41a8a9671ad1434c599dbaa0a0de9a5aa619f29a83f&codigo=LX002249507BR
 ```
 
-#### NODEJS - HTTP NATIVE
+### NODEJS - HTTP NATIVE
 
 ```js
 var https = require('follow-redirects').https;
@@ -80,7 +83,7 @@ var req = https.request(options, function (res) {
 req.end();
 ```
 
-#### NODEJS - USANDO REQUEST
+### NODEJS - USANDO REQUEST
 
 ```js
 var request = require('request');
@@ -98,7 +101,7 @@ request(options, function (error, response) {
 ```
 
 
-#### NODEJS - USANDO UNIREST
+### NODEJS - USANDO UNIREST
 
 ```js
 var unirest = require('unirest');
@@ -112,7 +115,7 @@ var req = unirest('GET', 'https://api.linketrack.com/track/json?user=teste&token
 
 
 
-#### C# USANDO RESTSHARP
+### C# USANDO RESTSHARP
 ```c#
 var client = new RestClient("https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb41a8a9671ad1434c599dbaa0a0de9a5aa619f29a83f&codigo=LX002249507BR");
 client.Timeout = -1;
@@ -122,7 +125,7 @@ Console.WriteLine(response.Content);
 ```
 
 
-#### JAVA USANDO UNIREST
+### JAVA USANDO UNIREST
 ```java
 Unirest.setTimeouts(0, 0);
 HttpResponse<String> response = Unirest.get("https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb41a8a9671ad1434c599dbaa0a0de9a5aa619f29a83f&codigo=LX002249507BR")
@@ -130,7 +133,7 @@ HttpResponse<String> response = Unirest.get("https://api.linketrack.com/track/js
 ```
 
 
-#### JAVA USANDO OKHTTP
+### JAVA USANDO OKHTTP
 ```java
 OkHttpClient client = new OkHttpClient().newBuilder()
   .build();
@@ -141,7 +144,7 @@ Request request = new Request.Builder()
 Response response = client.newCall(request).execute();
 ```
 
-#### PHP cURL
+### PHP cURL
 ```php
 <?php
 
@@ -165,7 +168,7 @@ echo $response;
 ```
 
 
-#### PYTHON REQUESTS
+### PYTHON REQUESTS
 ```python
 import requests
 
@@ -179,7 +182,7 @@ response = requests.request("GET", url, headers=headers, data = payload)
 print(response.text.encode('utf8'))
 ```
 
-#### RUBY 
+### RUBY 
 ```ruby
 require "uri"
 require "net/http"
@@ -195,7 +198,7 @@ response = https.request(request)
 puts response.read_body
 ```
 
-#### SWIFT
+### SWIFT
 ```swift
 import Foundation
 
@@ -217,7 +220,7 @@ task.resume()
 semaphore.wait()
 ```
 
-#### GO
+### GO
 ```go
 
 package main
@@ -250,9 +253,9 @@ func main() {
 
 
 
+## REPOSTAS
 
-#### RESPOSTA JSON
-*200 - OK*
+### *200 - OK*
     
 ```json
 {
@@ -374,7 +377,7 @@ func main() {
 }
 ```
 
-### RESPOSTA 404 - NOT_FOUND*
+### *404 - NOT_FOUND*
 ```json
 {
   "codigo": "AA123123123BR",
