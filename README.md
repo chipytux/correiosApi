@@ -7,9 +7,9 @@
 # API de Rastreamento de Encomendas dos Correios - Link&Track
 ### Serviço REST que retorna o JSON com os eventos de rastreamento de encomendas dos correios. 
 
-# ÍNDICE
-## [COMO USAR](#markdown-header-como-usar)
-## [EXEMPLOS](#markdown-header-exemplos)
+## ÍNDICE
+ - [COMO USAR](#como-usar-1)
+ - [EXEMPLOS](#exemplos-1)
 
 
 
