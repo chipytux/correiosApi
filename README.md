@@ -21,8 +21,8 @@
    - [SWIFT](#swift)
    - [GO](#go)
  - [REPOSTAS](#respostas)
-   - (200)[200---ok]
-   - (404)[404---not-found]
+   - (200)[#200---ok]
+   - (404)[#404---not_found]
    
 
 
@@ -253,7 +253,7 @@ func main() {
 
 
 
-## REPOSTAS
+## RESPOSTAS
 
 ### *200 - OK*
     
