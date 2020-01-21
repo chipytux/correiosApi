@@ -2,8 +2,20 @@
 
 ![Icone](https://camo.githubusercontent.com/94fc3fbc60e18868dc68c202da3c8223ff980f2b/687474703a2f2f7069736b656c2d696d6773746f72652d622e61707073706f742e636f6d2f696d672f64353830653936652d626438612d313165362d623135372d3939343963616434643630392e676966)
 
+
+
 # API de Rastreamento de Encomendas dos Correios - Link&Track
 ### Serviço REST que retorna o JSON com os eventos de rastreamento de encomendas dos correios. 
+
+# ÍNDICE
+## [COMO USAR](#markdown-header-como-usar)
+## [EXEMPLOS](#markdown-header-exemplos)
+
+
+
+
+
+### COMO USAR
 
 BASEURL: https://api.linketrack.com/track/json
 
