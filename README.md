@@ -9,8 +9,16 @@
 
 ## ÍNDICE
  - [COMO USAR](#como-usar)
- - [EXEMPLOS}(#exemplos)
-   - HTTP(#http)
+ - [EXEMPLOS](#exemplos)
+   - [HTTP](#http)
+   - [NODEJS - HTTP NATIVE](#nodejs---http-native)
+   - [NODEJS - USANDO REQUEST](#nodejs---usando-request)
+   - [NODEJS - USANDO UNIREST](#nodejs---usando-unirest)
+   - [JAVA - USANDO UNIREST](#java-usando-unirest)
+   - [PHP cURL](#php-curl)
+   - [HTTP](#http)
+   - [HTTP](#http)
+   - [HTTP](#http)
 
 
 
