@@ -8,8 +8,9 @@
 ### Serviço REST que retorna o JSON com os eventos de rastreamento de encomendas dos correios. 
 
 ## ÍNDICE
- - [COMO USAR](#como-usar-1)
- - [EXEMPLOS](#exemplos-1)
+ - [COMO USAR](#como-usar)
+ - [EXEMPLOS}(#exemplos)
+   - HTTP(#http)
 
 
 
