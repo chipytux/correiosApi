@@ -10,15 +10,17 @@
 ## ÍNDICE
  - [COMO USAR](#como-usar)
  - [EXEMPLOS](#exemplos)
-   - [HTTP](#http)
+   - [HTTP GET](#http-get)
    - [NODEJS - HTTP NATIVE](#nodejs---http-native)
    - [NODEJS - USANDO REQUEST](#nodejs---usando-request)
    - [NODEJS - USANDO UNIREST](#nodejs---usando-unirest)
    - [JAVA - USANDO UNIREST](#java-usando-unirest)
    - [PHP cURL](#php-curl)
-   - [HTTP](#http)
-   - [HTTP](#http)
-   - [HTTP](#http)
+   - [PYTHON Requests](#python-requests)
+   - [RUBY](#ruby)
+   - [SWIFT](#swift)
+   - [GO](#go)
+   
 
 
 
@@ -38,7 +40,7 @@ PARAMS:
 
 ### EXEMPLOS
 
-#### HTTP
+#### HTTP GET
 ```
 GET https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb41a8a9671ad1434c599dbaa0a0de9a5aa619f29a83f&codigo=LX002249507BR
 ```
