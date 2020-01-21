@@ -20,7 +20,7 @@
    - [RUBY](#ruby)
    - [SWIFT](#swift)
    - [GO](#go)
- - [REPOSTAS](#respostas)
+ - [RESPOSTAS](#respostas)
    - [200](#200---ok)
    - [404](#404---not_found)
    
