@@ -38,7 +38,7 @@ PARAMS:
  - token: Token do usuário
  - codigo: Código de Rastreamento da Encomenda
  
-> Os exemplos abaixo utilizam o usuário **teste**. Para solicitar um novo usuário e token envie e-mail para [api@linketrack.com](mailto://api@linketrack.com)
+> Os exemplos abaixo utilizam o usuário **teste**. Para solicitar um novo usuário e token envie e-mail para [api@linketrack.com](mailto:api@linketrack.com)
 
 
 ## EXEMPLOS
