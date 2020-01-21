@@ -6,6 +6,7 @@
 ### Serviço REST que retorna o JSON com os eventos de rastreamento de encomendas dos correios. 
 
 BASEURL: https://api.linketrack.com/track/json
+
 PARAMS:
  - user: Nome de usuário
  - token: Token do usuário
