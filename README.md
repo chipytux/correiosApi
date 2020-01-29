@@ -14,6 +14,7 @@
    - [NODEJS - HTTP NATIVE](#nodejs---http-native)
    - [NODEJS - USANDO REQUEST](#nodejs---usando-request)
    - [NODEJS - USANDO UNIREST](#nodejs---usando-unirest)
+   - [C# USANDO RESTSHARP](#c-usando-restsharp)
    - [JAVA - USANDO UNIREST](#java-usando-unirest)
    - [PHP cURL](#php-curl)
    - [PYTHON Requests](#python-requests)
