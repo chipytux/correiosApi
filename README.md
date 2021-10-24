@@ -391,7 +391,7 @@ func main() {
 ```
 
 ### Autor
-Chipy Tux - <chipytux@gmail.com>
+Chipy Tux
     
 ### License:
 MIT
