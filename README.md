@@ -256,7 +256,7 @@ func main() {
 
 ## RESPOSTAS
 
-> :warning: O valor do campo `subStatus` varia de acordo com a fonte do rastreamento e não deve ser considerado: **Este campo será descontinuado!!**
+> :warning: O valor do campo `subStatus` varia de acordo com a fonte do rastreamento e não deve ser considerado: **Este campo será descontinuado no futuro!!**
 
 ### *200 - OK*
 
