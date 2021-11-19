@@ -256,7 +256,11 @@ func main() {
 
 ## RESPOSTAS
 
+> :warning: O valor do campo `subStatus` varia de acordo com a fonte do rastreamento e não deve ser considerado: **Este campo será descontinuado!!**
+
 ### *200 - OK*
+
+
     
 ```json
 {
@@ -391,7 +395,7 @@ func main() {
 ```
 
 ### Autor
-Chipy Tux
+Chipytux
     
 ### License:
 MIT
