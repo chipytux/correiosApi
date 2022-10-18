@@ -381,7 +381,7 @@ func main() {
 }
 ```
 
-### *404 - NOT_FOUND*
+### *NOT_FOUND*
 ```json
 {
   "codigo": "AA123123123BR",
