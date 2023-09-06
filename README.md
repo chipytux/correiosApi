@@ -50,7 +50,7 @@ GET https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb
 ```
 
 ### CLIENTE NODEJS
-https://github.com/Diaszano/linketrackjs
+https://github.com/Diaszano/linketrackjs -> Cliente não oficial criado pelo @diaszano
 
 ### NODEJS - HTTP NATIVE
 
