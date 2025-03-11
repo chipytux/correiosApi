@@ -32,18 +32,6 @@
 
 ### COMO USAR
 
-BASEURL: https://api.linketrack.com/track/json
-
-PARAMS:
- - user: Nome de usuário
- - token: Token do usuário
- - codigo: Código de Rastreamento da Encomenda
- 
-> Os exemplos abaixo utilizam o usuário **teste**. Para solicitar um novo usuário e token envie e-mail para [api@linketrack.com](mailto:api@linketrack.com)
-
-
-## EXEMPLOS
-
 ### HTTP GET
 ```
 GET https://api.linketrack.com/track/json?user=teste&token=1abcd00b2731640e886fb41a8a9671ad1434c599dbaa0a0de9a5aa619f29a83f&codigo=LX002249507BR
