@@ -1,3 +1,7 @@
+> Identificamos um problema na API que está causando o retorno de eventos incorretos, afetando algumas encomendas de forma intermitente. Para evitar impactos maiores, decidimos pausar temporariamente o serviço enquanto buscamos uma solução definitiva.
+> Ao analisar os dados diretamente na API dos Correios, observamos que algumas respostas retornadas por eles correspondem a encomendas não relacionadas, o que compromete a confiabilidade das informações fornecidas.
+> Sabemos que este serviço é utilizado por muitos usuários que dependem dessas informações, e entendemos o impacto dessa interrupção. No entanto, acreditamos que seria ainda mais prejudicial continuar exibindo dados incorretos.
+> Agradecemos a compreensão e seguimos trabalhando para resolver essa situação o mais rápido possível. Manteremos vocês informados sobre qualquer atualização.
 
 
 ## API de Rastreamento de Encomendas dos Correios - Link&Track
