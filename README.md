@@ -1,7 +1,31 @@
-> Identificamos um problema na API que está causando o retorno de eventos incorretos, afetando algumas encomendas de forma intermitente. Para evitar impactos maiores, decidimos pausar temporariamente o serviço enquanto buscamos uma solução definitiva.
-> Ao analisar os dados diretamente na API dos Correios, observamos que algumas respostas retornadas por eles correspondem a encomendas não relacionadas, o que compromete a confiabilidade das informações fornecidas.
-> Sabemos que este serviço é utilizado por muitos usuários que dependem dessas informações, e entendemos o impacto dessa interrupção. No entanto, acreditamos que seria ainda mais prejudicial continuar exibindo dados incorretos.
-> Agradecemos a compreensão e seguimos trabalhando para resolver essa situação o mais rápido possível. Manteremos vocês informados sobre qualquer atualização.
+## 🚨 Aviso Importante
+
+### 📢 Encerramento Definitivo da API de Rastreamento - Link\&Track
+
+> **Atenção:** A **API de Rastreamento de Encomendas dos Correios - Link\&Track** foi **descontinuada de forma definitiva**.
+
+Apesar dos esforços para corrigir as instabilidades e inconsistências nas respostas da API oficial dos Correios, não foi possível garantir a confiabilidade necessária para manter o serviço ativo. Por esse motivo, optamos pelo encerramento definitivo do projeto.
+
+**Agradecemos imensamente a todos os usuários que confiaram e utilizaram a API ao longo do tempo.**
+
+---
+
+## ✅ Alternativa Recomendada
+
+Para quem precisa continuar realizando o rastreamento de encomendas dos Correios via API, recomendamos o serviço oferecido pelo [**SiteRastreio.com**](https://www.siterastreio.com.br/api-correios?utm_source=linketrack), que oferece:
+
+* **1000 requisições gratuitas por mês**
+* Planos pagos para quem ultrapassar esse limite
+* API REST estável, atualizada e de fácil integração
+
+👉 Saiba mais em: [https://www.siterastreio.com.br/api-correios](https://www.siterastreio.com.br/api-correios?utm_source=linketrack)
+
+---
+
+## 📌 Histórico da Interrupção
+
+> Em meados de março de 2025, identificamos um problema que causava o retorno de eventos incorretos, afetando algumas encomendas de forma intermitente. Por esse motivo, o serviço foi pausado temporariamente enquanto buscávamos uma solução definitiva. Infelizmente, devido à persistência das inconsistências, a decisão pelo encerramento definitivo se fez necessária.
+
 
 
 ## API de Rastreamento de Encomendas dos Correios - Link&Track
