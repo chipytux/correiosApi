@@ -20,6 +20,8 @@ Para quem precisa continuar realizando o rastreamento de encomendas dos Correios
 
 👉 Saiba mais em: [https://www.siterastreio.com.br/api-correios](https://www.siterastreio.com.br/api-correios?utm_source=linketrack)
 
+👉 Ou entre em contato pelo [email](mailto:contato@wonca.com.br)
+
 ---
 
 ## 📌 Histórico da Interrupção
